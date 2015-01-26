@@ -1,0 +1,7 @@
+*.suo
+*.exe
+*.pdb
+*.cache
+
+Pong/bin
+Pong/obj

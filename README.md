@@ -9,6 +9,7 @@ TODO:
 	-Display score
 	-Draw middle line
 	-Implement pause feature
+	-Vary ball angle depending on location of collision with paddles
 
 BUGS:
 
